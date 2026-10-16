@@ -53,11 +53,14 @@ This is what I have at my disposal — thanks to AliExpress 😅
 | 9 | 17-20 | Specialization & Portfolio | ⬜ |
 
 ## 📂 How This Repo Is Organized
+
+```
 embedded-security-journey/
-├── journal/ # Daily entries — what I did, learned, and struggled with
-├── projects/ # Hands-on builds — code, schematics, photos
-├── notes/ # Concept notes — protocols, tools, theory
-└── writeups/ # Security analyses of devices I've tested
+├── journal/     # Daily entries — what I did, learned, and struggled with
+├── projects/    # Hands-on builds — code, schematics, photos
+├── notes/       # Concept notes — protocols, tools, theory
+└── writeups/    # Security analyses of devices I've tested
+```
 
 
 ## 📝 Progress Log
